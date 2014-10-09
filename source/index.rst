@@ -25,7 +25,7 @@ until such time as we agree to change, based on the outcome of debates.
 Formats
 =======
 
-You can view this documentation online at http://devdocs.rehabstudio.com, as an `eBook here <./devdocs.epub>`_ or as a `PDF here <./devdocs.pdf>`_.
+You can view this documentation online at http://devdocs.rehabstudio.com
 
 Your Contributions
 ==================
